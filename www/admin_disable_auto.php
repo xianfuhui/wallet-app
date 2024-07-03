@@ -64,8 +64,7 @@
             <table border="1">
             <tr>
                 <td>Username</td>
-                <td>Time Register And Upload Images</td>
-                <td>Time Disable Admin</td>
+                <td>Time Disable Auto</td>
                 <td>View</td>
             </tr>     
             <?php
@@ -73,8 +72,7 @@
                     ?>
                     <tr>
                         <td><?php echo $row['username']; ?></td>
-                        <td><?php echo $row['time_register_upload_image']; ?></td>
-                        <td><?php echo $row['time_disable_admin']; ?></td>
+                        <td><?php echo $row['time_count_password_wrong']; ?></td>
                         <form action="admin_account_detail.php" method="post">
                             <td><input name="admin_view_account_detail" type="submit" value="Account Detail"/></td>
                             <input name="username" type="hidden" value="<?php echo $row['username']; ?>"/>

@@ -48,8 +48,8 @@
         $mail->CharSet  = "utf-8";
         $mail->Host = 'smtp.gmail.com';  
         $mail->SMTPAuth = true; 
-        $nguoigui = 'huyremoving9031@gmail.com';
-        $matkhau = '#ChoHuy77@';
+        $nguoigui = 'doraemondevops@gmail.com';
+        $matkhau = 'nkgr fdoh frdb etjp';
         $tennguoigui = 'Huy';
         $mail->Username = $nguoigui; 
         $mail->Password = $matkhau;   
