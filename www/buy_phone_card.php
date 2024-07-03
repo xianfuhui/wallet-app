@@ -83,7 +83,7 @@
 
         <div class = "container-deposite">
             <div class="deopiste-tittle">
-                <h1>Withdraw</h1>
+                <h1>Buy Phone Card</h1>
                 <span style="font-weight: 600;">Balance: <?= $money_vietnam ?> VND</span>
             </div>
 

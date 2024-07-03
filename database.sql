@@ -33,14 +33,14 @@ CREATE TABLE `credit_card` (
   `expiration` date NOT NULL,
   `cvv` int NOT NULL,
   `type` int NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
 -- Dumping data for table `credit_card`
 --
 
 INSERT INTO `credit_card` (`no`, `card_number`, `expiration`, `cvv`, `type`) VALUES
-(1, '111111', '2022-10-10', 411, 1),
+(1, '111111', '2025-10-10', 411, 1),
 (2, '222222', '2022-11-11', 443, 2),
 (3, '333333', '2022-12-12', 577, 3);
 
@@ -61,7 +61,7 @@ CREATE TABLE `history` (
   `time` text NOT NULL,
   `status` varchar(100) NOT NULL,
   `message` text NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
 -- Dumping data for table `history`
@@ -103,7 +103,7 @@ CREATE TABLE `user` (
   `time_active` datetime DEFAULT NULL,
   `time_disable_auto` datetime DEFAULT NULL,
   `time_disable_admin` datetime DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
 -- Dumping data for table `user`
@@ -111,7 +111,8 @@ CREATE TABLE `user` (
 
 INSERT INTO `user` (`username`, `password`, `phonenumber`, `email`, `fullname`, `birthday`, `address`, `identity_card_1`, `identity_card_2`, `balance`, `first_login`, `count_password_wrong`, `OTP`, `active`, `disable_auto`, `disable_admin`, `time_register_upload_image`, `time_count_password_wrong`, `time_otp`, `time_active`, `time_disable_auto`, `time_disable_admin`) VALUES
 ('0857751234', '11967d5e9addc5416ea9224eee0e91fc', '0857751234', 'huyremoving9031@gmail.com', 'Huy', '2022-06-05', 'None', 'images/0857751234_1.png', 'images/0857751234_2.png', 3900000, 1, 0, '728441', 1, 0, 0, '2022-06-05 13:52:47', NULL, '2022-06-05 14:02:49', NULL, NULL, NULL),
-('0343555902', '498d3c6bfa033f6dc1be4fcc3c370aa7', '0343555902', 'son13012002@gmail.com', 'Son', '2022-06-05', 'None', 'images/0343555902_1.png', 'images/0343555902_2.png', 820000, 1, 0, '', 1, 0, 0, '2022-06-05 13:55:57', NULL, NULL, NULL, NULL, NULL);
+('0343555902', '498d3c6bfa033f6dc1be4fcc3c370aa7', '0343555902', 'son13012002@gmail.com', 'Son', '2022-06-05', 'None', 'images/0343555902_1.png', 'images/0343555902_2.png', 820000, 1, 0, '', 1, 0, 0, '2022-06-05 13:55:57', NULL, NULL, NULL, NULL, NULL),
+('0903700092', '498d3c6bfa033f6dc1be4fcc3c370aa7', '0903700092', 'phat@gmail.com', 'Phat', '2022-06-05', 'None', 'images/0343555902_1.png', 'images/0343555902_2.png', 820000, 0, 0, '', 0, 0, 0, '2022-06-05 13:55:57', NULL, NULL, NULL, NULL, NULL);
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
