@@ -138,36 +138,36 @@ In the main page, users will have features such as: Waiting, Active, Disable Aut
 
 `	`+ Money Approval: This section will contain information of all pending transactions. The information includes Type, Amount, Time, Status and View. When selecting View admin will be able to see all transaction information and approval rights.
 
-![](Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.001.png)
+![](./README_images/Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.001.png)
 
-![](Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.002.png)
+![](./README_images/Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.002.png)
 
-![](Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.003.png)
+![](./README_images/Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.003.png)
 
-![](Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.004.png)
+![](./README_images/Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.004.png)
 
-![](Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.005.png)
+![](./README_images/Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.005.png)
 
-![](Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.006.png)
+![](./README_images/Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.006.png)
 
-![](Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.007.png)
+![](./README_images/Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.007.png)
 
-![](Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.008.png)
+![](./README_images/Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.008.png)
 
-![](Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.009.png)
+![](./README_images/Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.009.png)
 
-![](Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.010.png)
+![](./README_images/Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.010.png)
 
-![](Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.011.png)
+![](./README_images/Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.011.png)
 
-![](Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.012.png)
+![](./README_images/Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.012.png)
 
-![](Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.013.png)
+![](./README_images/Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.013.png)
 
-![](Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.014.png)
+![](./README_images/Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.014.png)
 
-![](Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.015.png)
+![](./README_images/Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.015.png)
 
-![](Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.016.png)
+![](./README_images/Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.016.png)
 
-![](Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.017.png)
+![](./README_images/Aspose.Words.e1e8ad0a-a624-4701-8abc-a3af71746ca7.017.png)
